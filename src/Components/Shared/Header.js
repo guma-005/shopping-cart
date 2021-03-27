@@ -1,12 +1,5 @@
 import React, { Component } from '../../../node_modules/react';
-import {
-	Button,
-	Nav,
-	NavDropdown,
-	Navbar,
-	Form,
-	FormControl,
-} from 'react-bootstrap';
+import { Button, Navbar, Form, FormControl } from 'react-bootstrap';
 
 export default class Header extends Component {
 	render() {

@@ -17,7 +17,7 @@ class App extends Component {
 				<Container>
 					<Home />
 				</Container>
-				<div>
+				<div style={{ bottom: ' 0', position: 'absolute', width: '100%' }}>
 					<Container>
 						<Footer />
 					</Container>
